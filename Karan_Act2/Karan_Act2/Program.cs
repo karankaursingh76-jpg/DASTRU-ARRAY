@@ -12,7 +12,7 @@ namespace Karan_Act2
         {
             //Karandeep Kaur D. Singh
             //IT401P
-            //Single Dimensional Array of Objcets in OOP
+            //Double Dimensional Array 
 
             //making an array of Countries objects
             Country[,] countries = new Country[2,3];
@@ -42,3 +42,4 @@ namespace Karan_Act2
         }
     }
 }
+
